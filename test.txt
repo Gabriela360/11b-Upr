@@ -1,3 +1,8 @@
 Gabriela
 Gabsi
 test
+<<<<<<< HEAD
+Това е нов ред в файла на My Documents.
+=======
+Това е нов ред в файла на Desktop.
+>>>>>>> [commit_hash]
